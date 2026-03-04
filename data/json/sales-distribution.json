@@ -1,7 +1,0 @@
-[
-  {"sales_bucket": "0 sales", "products": 66},
-  {"sales_bucket": "1-10 sales", "products": 4441},
-  {"sales_bucket": "11-100 sales", "products": 4694},
-  {"sales_bucket": "101-1000 sales", "products": 3129},
-  {"sales_bucket": "1000+ sales", "products": 688}
-]

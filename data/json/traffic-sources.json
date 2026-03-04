@@ -1,6 +1,0 @@
-[
-  {"source": "Organic Search (Google)", "share_pct": 41, "avg_conversion_pct": 3.1, "trend": "Growing"},
-  {"source": "Social Media (Twitter, Reddit)", "share_pct": 33, "avg_conversion_pct": 2.4, "trend": "Stable"},
-  {"source": "Direct Traffic", "share_pct": 18, "avg_conversion_pct": 5.8, "trend": "Stable"},
-  {"source": "Paid Ads (Meta, Google)", "share_pct": 8, "avg_conversion_pct": 1.9, "trend": "Declining"}
-]

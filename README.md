@@ -46,14 +46,6 @@ All data is available in both **CSV** and **JSON** formats.
 | [`rating-impact.csv`](data/rating-impact.csv) | 6 | How star ratings correlate with sales |
 | [`product-types.csv`](data/product-types.csv) | 6 | Downloads vs e-books vs courses vs bundles |
 | [`top-products.csv`](data/top-products.csv) | 8 | Highest-grossing products on Gumroad |
-| [`sales-distribution.csv`](data/sales-distribution.csv) | 5 | Products by sales volume bucket |
-| [`creator-benchmarks.csv`](data/creator-benchmarks.csv) | 13 | Revenue benchmarks for creators (top 1%, median, full-time) |
-| [`income-timeline.csv`](data/income-timeline.csv) | 5 | Expected revenue trajectory over first 2 years |
-| [`top-niches-2026.csv`](data/top-niches-2026.csv) | 8 | Fastest-growing niches with growth rates |
-| [`success-factors.csv`](data/success-factors.csv) | 6 | Key factors that drive digital product revenue |
-| [`gumroad-timeline.csv`](data/gumroad-timeline.csv) | 8 | Gumroad platform history (2011-2026) |
-| [`traffic-sources.csv`](data/traffic-sources.csv) | 4 | Traffic channels, share, and conversion rates |
-| [`seasonal-trends.csv`](data/seasonal-trends.csv) | 8 | Monthly seasonality index for digital product sales |
 
 JSON versions of all files are in [`data/json/`](data/json/). Aggregated stats (totals, PWYW vs fixed pricing) are in [`analysis/summary-stats.json`](analysis/summary-stats.json).
 

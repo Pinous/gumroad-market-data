@@ -1,7 +1,0 @@
-[
-  {"period": "Month 1", "typical_revenue": "$0-$50", "optimized_revenue": "$100-$500", "recommended_action": "Launch 1st product + build email list"},
-  {"period": "Month 2-3", "typical_revenue": "$20-$150", "optimized_revenue": "$300-$1,500", "recommended_action": "Iterate pricing + launch 2nd product"},
-  {"period": "Month 4-6", "typical_revenue": "$50-$300", "optimized_revenue": "$800-$3,000", "recommended_action": "SEO traffic kicks in + 3rd product"},
-  {"period": "Month 7-12", "typical_revenue": "$100-$500", "optimized_revenue": "$2,000-$8,000", "recommended_action": "Compound growth + email automation"},
-  {"period": "Year 2", "typical_revenue": "$200-$1,000", "optimized_revenue": "$5,000-$20,000", "recommended_action": "Multiple products + premium pricing"}
-]
