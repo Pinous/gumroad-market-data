@@ -1,0 +1,7 @@
+[
+  {"segment": "Top 1%", "products": 130, "estimated_revenue_usd": 159300000, "share_of_total_pct": 77.3},
+  {"segment": "Top 5%", "products": 650, "estimated_revenue_usd": 184100000, "share_of_total_pct": 89.3},
+  {"segment": "Top 10%", "products": 1300, "estimated_revenue_usd": 193300000, "share_of_total_pct": 93.8},
+  {"segment": "Bottom 50%", "products": 6452, "estimated_revenue_usd": 680000, "share_of_total_pct": 0.3},
+  {"segment": "Total Tracked", "products": 12952, "estimated_revenue_usd": 206100000, "share_of_total_pct": 100.0}
+]

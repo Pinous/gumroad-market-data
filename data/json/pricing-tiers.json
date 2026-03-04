@@ -1,0 +1,10 @@
+[
+  {"price_range": "$0.01-$4.99", "products": 2084, "avg_sales": 313, "median_sales": 24, "total_sales": 651976, "estimated_revenue_usd": 1700000, "revenue_share_pct": 0.8},
+  {"price_range": "$5-$9.99", "products": 2896, "avg_sales": 328, "median_sales": 35, "total_sales": 949116, "estimated_revenue_usd": 6200000, "revenue_share_pct": 3.0},
+  {"price_range": "$10-$19.99", "products": 3365, "avg_sales": 241, "median_sales": 29, "total_sales": 811390, "estimated_revenue_usd": 11400000, "revenue_share_pct": 5.5},
+  {"price_range": "$20-$29.99", "products": 1760, "avg_sales": 235, "median_sales": 24.5, "total_sales": 413657, "estimated_revenue_usd": 9700000, "revenue_share_pct": 4.7},
+  {"price_range": "$30-$49.99", "products": 1409, "avg_sales": 268, "median_sales": 33, "total_sales": 377533, "estimated_revenue_usd": 15000000, "revenue_share_pct": 7.3},
+  {"price_range": "$50-$99.99", "products": 857, "avg_sales": 239, "median_sales": 30, "total_sales": 204399, "estimated_revenue_usd": 14500000, "revenue_share_pct": 7.0},
+  {"price_range": "$100-$199.99", "products": 265, "avg_sales": 318, "median_sales": 22, "total_sales": 84307, "estimated_revenue_usd": 12400000, "revenue_share_pct": 6.0},
+  {"price_range": "$200+", "products": 316, "avg_sales": 154, "median_sales": 12, "total_sales": 48515, "estimated_revenue_usd": 135300000, "revenue_share_pct": 65.7}
+]

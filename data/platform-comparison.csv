@@ -1,0 +1,6 @@
+platform,fee_pct,processing_fee,total_on_100_sale_usd,monthly_plan_usd,marketplace,payout_frequency,best_for
+Gumroad,10%,2.9% + $0.30,$13.20,$0,Yes (146K products),Weekly,Digital products simplicity
+Whop,3%,2.9% + $0.30,$6.20,$0,Yes (growing),Instant,Communities memberships
+Systeme.io,0%,Included,$0.00,$27-$97,Limited,Weekly,Funnels email all-in-one
+Payhip,5%,2.9% + $0.30,$8.20,$0,No,Instant,E-books courses
+Lemonsqueezy,5% + $0.50,Included,$5.50,$0,No,Weekly,Software SaaS licenses

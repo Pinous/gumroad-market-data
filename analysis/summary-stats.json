@@ -1,0 +1,33 @@
+{
+  "overview": {
+    "total_products": 146271,
+    "total_sellers": 43884,
+    "total_estimated_revenue_usd": "206M+",
+    "tracked_categories": 18,
+    "median_price_usd": 13,
+    "avg_price_usd": 49.18,
+    "top_category": "Software Development ($65.8M)",
+    "products_with_sales": 12952,
+    "products_with_zero_sales_pct": 34,
+    "products_with_under_10_sales_pct": 34,
+    "avg_sales_per_product": 272,
+    "median_sales_per_product": 28,
+    "total_sales_count": 3540893,
+    "avg_rating": 2.93,
+    "products_no_ratings": 5037,
+    "avg_revenue_per_product_usd": 15910,
+    "total_reviews": 73453,
+    "one_time_products": 12809,
+    "subscription_products": 143
+  },
+  "pay_what_you_want": {
+    "pwyw_products": 4792,
+    "pwyw_avg_sales": 287,
+    "pwyw_avg_price_usd": 18.74,
+    "pwyw_avg_rating": 3.25,
+    "fixed_products": 8160,
+    "fixed_avg_sales": 265,
+    "fixed_avg_price_usd": 66.77,
+    "fixed_avg_rating": 2.76
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {"review_rate": "0%", "products": 1704, "avg_sales": 47, "avg_rating": 0.00},
+  {"review_rate": "0.01-1%", "products": 428, "avg_sales": 1420, "avg_rating": 4.78},
+  {"review_rate": "1-5%", "products": 3072, "avg_sales": 659, "avg_rating": 4.81},
+  {"review_rate": "5-10%", "products": 1870, "avg_sales": 296, "avg_rating": 4.81},
+  {"review_rate": "10-25%", "products": 1120, "avg_sales": 207, "avg_rating": 4.87},
+  {"review_rate": "25%+", "products": 317, "avg_sales": 80, "avg_rating": 4.90}
+]

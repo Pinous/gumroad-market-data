@@ -1,0 +1,8 @@
+[
+  {"product_type": "Digital download", "products": 11033, "avg_sales": 293, "avg_price_usd": 47.14},
+  {"product_type": "E-book", "products": 1049, "avg_sales": 214, "avg_price_usd": 50.91},
+  {"product_type": "Course", "products": 348, "avg_sales": 115, "avg_price_usd": 95.74},
+  {"product_type": "Bundle", "products": 250, "avg_sales": 73, "avg_price_usd": 52.43},
+  {"product_type": "Membership", "products": 143, "avg_sales": 115, "avg_price_usd": 33.83},
+  {"product_type": "Physical product", "products": 106, "avg_sales": 55, "avg_price_usd": 32.38}
+]

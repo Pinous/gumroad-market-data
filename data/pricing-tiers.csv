@@ -1,0 +1,9 @@
+price_range,products,avg_sales,median_sales,total_sales,estimated_revenue_usd,revenue_share_pct,note
+$0.01-$4.99,2084,313,24,651976,1700000,0.8,Impulse buys — high volume low revenue
+$5-$9.99,2896,328,35,949116,6200000,3.0,Entry-level digital products
+$10-$19.99,3365,241,29,811390,11400000,5.5,Templates presets small tools
+$20-$29.99,1760,235,24.5,413657,9700000,4.7,Premium templates mini-courses
+$30-$49.99,1409,268,33,377533,15000000,7.3,Sweet spot — highest sales at solid price
+$50-$99.99,857,239,30,204399,14500000,7.0,Full courses software licenses
+$100-$199.99,265,318,22,84307,12400000,6.0,Premium courses coaching bundles
+$200+,316,154,12,48515,135300000,65.7,High-ticket — dominates total revenue

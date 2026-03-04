@@ -1,0 +1,7 @@
+[
+  {"portfolio_size": "1 product", "sellers": 3902, "avg_total_sales": 269},
+  {"portfolio_size": "2-3 products", "sellers": 1157, "avg_total_sales": 706},
+  {"portfolio_size": "4-5 products", "sellers": 325, "avg_total_sales": 1681},
+  {"portfolio_size": "6-10 products", "sellers": 254, "avg_total_sales": 1641},
+  {"portfolio_size": "11+ products", "sellers": 137, "avg_total_sales": 5201}
+]

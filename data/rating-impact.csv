@@ -1,0 +1,7 @@
+rating_bucket,products,avg_sales,avg_price_usd
+No ratings,5037,18,62.89
+1-2.9 stars,120,61,26.55
+3-3.9 stars,223,197,26.66
+4-4.4 stars,360,499,35.84
+4.5-4.9 stars,1565,1197,33.09
+5 stars,5647,238,43.23

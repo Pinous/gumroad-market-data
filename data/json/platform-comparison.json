@@ -1,0 +1,7 @@
+[
+  {"platform": "Gumroad", "fee_pct": "10%", "processing_fee": "2.9% + $0.30", "total_on_100_sale_usd": 13.20, "monthly_plan_usd": 0, "marketplace": true, "payout_frequency": "Weekly", "best_for": "Digital products, simplicity"},
+  {"platform": "Whop", "fee_pct": "3%", "processing_fee": "2.9% + $0.30", "total_on_100_sale_usd": 6.20, "monthly_plan_usd": 0, "marketplace": true, "payout_frequency": "Instant", "best_for": "Communities, memberships"},
+  {"platform": "Systeme.io", "fee_pct": "0%", "processing_fee": "Included", "total_on_100_sale_usd": 0.00, "monthly_plan_usd": "27-97", "marketplace": false, "payout_frequency": "Weekly", "best_for": "Funnels, email, all-in-one"},
+  {"platform": "Payhip", "fee_pct": "5%", "processing_fee": "2.9% + $0.30", "total_on_100_sale_usd": 8.20, "monthly_plan_usd": 0, "marketplace": false, "payout_frequency": "Instant", "best_for": "E-books, courses"},
+  {"platform": "Lemonsqueezy", "fee_pct": "5% + $0.50", "processing_fee": "Included", "total_on_100_sale_usd": 5.50, "monthly_plan_usd": 0, "marketplace": false, "payout_frequency": "Weekly", "best_for": "Software, SaaS licenses"}
+]

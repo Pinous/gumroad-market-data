@@ -1,0 +1,6 @@
+segment,products,estimated_revenue_usd,share_of_total_pct
+Top 1%,130,159300000,77.3
+Top 5%,650,184100000,89.3
+Top 10%,1300,193300000,93.8
+Bottom 50%,6452,680000,0.3
+Total Tracked,12952,206100000,100.0

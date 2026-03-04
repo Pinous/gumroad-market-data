@@ -1,0 +1,8 @@
+[
+  {"rating_bucket": "No ratings", "products": 5037, "avg_sales": 18, "avg_price_usd": 62.89},
+  {"rating_bucket": "1-2.9 stars", "products": 120, "avg_sales": 61, "avg_price_usd": 26.55},
+  {"rating_bucket": "3-3.9 stars", "products": 223, "avg_sales": 197, "avg_price_usd": 26.66},
+  {"rating_bucket": "4-4.4 stars", "products": 360, "avg_sales": 499, "avg_price_usd": 35.84},
+  {"rating_bucket": "4.5-4.9 stars", "products": 1565, "avg_sales": 1197, "avg_price_usd": 33.09},
+  {"rating_bucket": "5 stars", "products": 5647, "avg_sales": 238, "avg_price_usd": 43.23}
+]
